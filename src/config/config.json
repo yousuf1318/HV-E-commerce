@@ -1,0 +1,5 @@
+{
+    "mongooURI":"mongodb+srv://yousuf:yousuf@cluster0.pkygg.mongodb.net/ecommerce?retryWrites=true&w=majority",
+    "jwtSecret":"secretToken"
+    
+}
